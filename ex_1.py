@@ -1,0 +1,8 @@
+#print ("hello humans")
+print ("hello again")
+print ("i like typing this")
+print  ("This is fun.")
+print ("yay!! Printing")
+print ("i'd much rather if you 'not'")
+#print ('I "said" not to touch this.') 
+print ("printing another line")
