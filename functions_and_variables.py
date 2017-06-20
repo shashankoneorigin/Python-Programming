@@ -1,3 +1,4 @@
+print("*" *100)
 def chease_and_crackers(chease_count, box_crackers):
     print("you have %d chease" % chease_count)
     print("you have %d crackers" % box_crackers)
@@ -19,3 +20,4 @@ chease_and_crackers(10 + 30, 98 + 65)
 print("combining two variables and math")
 
 chease_and_crackers(amount_of_chease + 300, amount_of_crackers + 98)
+print("*" *100)
